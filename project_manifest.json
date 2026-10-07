@@ -1,0 +1,17 @@
+{
+  "student_id": "2024270023",
+  "target_wavelength_nm": 680,
+  "seed": 270023,
+  "design_seed": 270024,
+  "design_objective": "maximize",
+  "test_mse_4000": 6.870007942711e-05,
+  "test_mae_4000": 0.0059819998151171,
+  "best_design_nm": [
+    76.11855833252801,
+    113.46409232024746,
+    75.06399666270306,
+    122.12790134465524
+  ],
+  "best_mlp_R_target": 0.65855,
+  "best_tmm_R_target": 0.6583262295760565
+}
